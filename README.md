@@ -29,7 +29,7 @@ At the moment, the app works in a fairly simple way: you can create notes, edit 
 
 ### CRUD
 You can, on the application, Create, Read, Edit and Delete (Delete) notes endlessly.
-! [alt text] (https://dev.vruel.fr/notepad_android/presentation_crud.png)
+![alt text](https://dev.vruel.fr/notepad_android/presentation_crud.png)
 
 ### Data
 All note data is backed up and stored locally on the phone.
